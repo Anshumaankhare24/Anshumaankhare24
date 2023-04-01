@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anshumaan Khare</h1>
 <h3 align="center">A passionate Software Developer and Android Application Development from India</h3>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="300">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumaankhare123&label=Profile%20views&color=0e75b6&style=flat" alt="anshumaankhare123" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anshumaankhare" target="blank"><img src="https://img.shields.io/twitter/follow/anshumaankhare?logo=twitter&style=for-the-badge" alt="anshumaankhare" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@khareanshumaan" target="blank"><img src="https://img.shields.io/twitter/follow/@khareanshumaan?logo=twitter&style=for-the-badge" alt="@khareanshumaan" /></a> </p>
 
 - 🌱 I’m currently learning **Java , node.js,React.js,Gatsby.js,Flutter,MYSQL,Dart,Kotlin,D.S.A......**
 
@@ -18,12 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/anshumaankhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anshumaankhare" height="30" width="40" /></a>
-<a href="https://twitter.com/anshumaankhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshumaankhare" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anshumaankhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshumaankhare" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anshumaan khare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anshumaan khare" height="30" width="40" /></a>
+<a href="https://twitter.com/@khareanshumaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@khareanshumaan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anshumaan-khare-58550a241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anshumaan-khare-58550a241/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21545239/anshumaan-khare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21545239/anshumaan-khare" height="30" width="40" /></a>
 <a href="https://codesandbox.com/anshumaankhare2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="anshumaankhare2" height="30" width="40" /></a>
-<a href="https://instagram.com/anshumaankhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshumaankhare" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/anshumaankhare/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anshumaankhare/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anshumaankhare2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshumaankhare2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anshumaankhare2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshumaankhare2" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anshumaankhare2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshumaankhare2" height="30" width="40" /></a>

@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm Anshumaan Khare</h1>
 <h3 align="center">A passionate Software Developer and Android Application Development from India</h3>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumaankhare123&label=Profile%20views&color=0e75b6&style=flat" alt="anshumaankhare123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anshumaankhare" target="blank"><img src="https://img.shields.io/twitter/follow/anshumaankhare?logo=twitter&style=for-the-badge" alt="anshumaankhare" /></a> </p>
 
-- 🌱 I’m currently learning **Java , node.js,React.js,Gatsby.js,Flutter,Dart,Kotlin,D.S.A......**
+- 🌱 I’m currently learning **Java , node.js,React.js,Gatsby.js,Flutter,MYSQL,Dart,Kotlin,D.S.A......**
+
+- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+
+- 💬 Ask me about **Java , node.js,React.js,Gatsby.js,Flutter,Dart,Kotlin,D.S.A.,MYSQL**
 
 - 📫 How to reach me **anshumaankhare2@gmail.com**
+
+- ⚡ Fun fact **I'm a part time singer lol....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshumaan Khare</h1>
-<img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="900" height="300">
+<img src="naruto-uzumaki-3840x2160-12705.jpg" width="900" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumaankhare123&label=Profile%20views&color=0e75b6&style=flat" alt="anshumaankhare123" /> </p>
 

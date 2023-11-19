@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshumaan Khare</h1>
-<img src="https://www.instagram.com/p/CvrOXCEoDFz/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==" width="900" height="300">
+<img src="![image](https://github.com/Anshumaankhare123/Anshumaankhare123/assets/94692766/62b0f5ba-9bcc-4e08-bd3c-17a30f844afc)" width="900" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumaankhare123&label=Profile%20views&color=0e75b6&style=flat" alt="anshumaankhare123" /> </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshumaan Khare</h1>
-<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="900" height="300">
+<img src="https://drive.google.com/file/d/1pXMR7sBADQZBW_Wshn7vQKpRy2D2tdOQ/view?usp=sharing" width="900" height="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumaankhare123&label=Profile%20views&color=0e75b6&style=flat" alt="anshumaankhare123" /> </p>
 
 # 💫 About Me:

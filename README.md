@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshumaan Khare</h1>
-<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="900" height="300">
+<img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI1MTc2NTgsIm5iZiI6MTcwMjUxNzM1OCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE0VDAxMjkxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzMjQzMDFkNDNiYTQ2NWNkYThkYjUwNzkwNzMwM2Q0MDA4MTUwNTZmY2U0NjIyZWNmOTM0ZTQ4ZjU2ZDQyNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.5r_skgZRHrUMaQqgNBOmTOcDBWBSkuFO73FOob85bfc" width="900" height="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumaankhare123&label=Profile%20views&color=0e75b6&style=flat" alt="anshumaankhare123" /> </p>
 
 # 💫 About Me:

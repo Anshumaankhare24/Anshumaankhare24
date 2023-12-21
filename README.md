@@ -1,4 +1,4 @@
-![Anshumaan Khare](https://github.com/Anshumaankhare123/Anshumaankhare123/assets/94692766/14cb622d-9ba6-4f8b-b0ff-98672d00fca1)
+
 <img src="./Img/Anshumaan Khare.png" width="900" height="400">
 <h1 align="center">Hi 👋, I'm Anshumaan Khare</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumaankhare123&label=Profile%20views&color=0e75b6&style=flat" alt="anshumaankhare123" /> </p>

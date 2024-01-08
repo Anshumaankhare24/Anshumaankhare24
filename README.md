@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Java , Node.js,React.js,Flutter,MYSQL,Dart,Mongodb,D.S.A......<br><br>👨‍💻 All of my projects are available at GitHub<br>⚡ Fun fact I'm a part time singer lol....
+🌱 I’m currently learning Java , Node.js,React.js,Flutter,MYSQL,Dart,Mongodb,D.S.A......<br><br>👨‍💻 All of my projects are available at GitHub<br><br>⚡ Fun fact I'm a part time singer lol....
 
 
 ## 🌐 Socials:

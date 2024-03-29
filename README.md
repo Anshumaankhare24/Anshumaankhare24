@@ -1,5 +1,5 @@
 
-![Anshumaan](https://github.com/Anshumaankhare123/Anshumaankhare123/assets/94692766/2d512e3f-56f3-4743-ae3e-67704839c388)
+![Color Modern Bold Creative Personal LinkedIn Banner](https://github.com/Anshumaankhare24/Anshumaankhare24/assets/94692766/82cb954a-5071-48fc-8744-5b82faf27033)
 
 <h1 align="center">Hi 👋, I'm Anshumaan Khare</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumaankhare123&label=Profile%20views&color=0e75b6&style=flat" alt="anshumaankhare123" /> </p>

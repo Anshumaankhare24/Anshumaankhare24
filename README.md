@@ -1,5 +1,5 @@
 
-![Color Modern Bold Creative Personal LinkedIn Banner](https://github.com/Anshumaankhare24/Anshumaankhare24/assets/94692766/82cb954a-5071-48fc-8744-5b82faf27033)
+![Purple Minimalist Brush Personal LinkedIn Banner](https://github.com/Anshumaankhare24/Anshumaankhare24/assets/94692766/51df6c6b-f9b5-451e-bb59-c355a2a58800)
 
 <h1 align="center">Hi 👋, I'm Anshumaan Khare</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumaankhare123&label=Profile%20views&color=0e75b6&style=flat" alt="anshumaankhare123" /> </p>

@@ -1,5 +1,6 @@
 
-![Purple Minimalist Brush Personal LinkedIn Banner](https://github.com/Anshumaankhare24/Anshumaankhare24/assets/94692766/51df6c6b-f9b5-451e-bb59-c355a2a58800)
+![Modern Professional Creative Business Agency LinkedIn Banner](https://github.com/user-attachments/assets/8eea0830-3acd-4275-acc3-e65ee60b6fe2)
+
 
 <h1 align="center">Hi 👋, I'm Anshumaan Khare</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumaankhare123&label=Profile%20views&color=0e75b6&style=flat" alt="anshumaankhare123" /> </p>
